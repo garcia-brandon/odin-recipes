@@ -1,0 +1,32 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+h1,
+h4,
+p {
+    text-align: center;
+}
+p {
+    font-style: italic;
+}
+li {
+    font-size: 13px;
+}
+.ramen {
+    background-color: brown;
+}
+#whitenoodle {
+    color:white
+}
+.sandwich {
+    background-color: green;
+}
+#whitesandwich {
+    color:white     
+}
+.ceviche {
+    background-color: palevioletred
+}
+#whiteceviche {
+    color:white
+}
