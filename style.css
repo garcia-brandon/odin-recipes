@@ -8,9 +8,22 @@ p {
 }
 p {
     font-style: italic;
+    padding: 20px;
 }
 li {
     font-size: 13px;
+
+}
+.homeheader {
+    font-size: 100px;
+    
+}
+.homelist {
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    list-style-type: none;
+    font-size: 20px;
 }
 .ramen {
     background-color: brown;
@@ -28,5 +41,6 @@ li {
     background-color: palevioletred
 }
 #whiteceviche {
-    color:white
+    color:white;
+    margin-top: 75px;
 }
